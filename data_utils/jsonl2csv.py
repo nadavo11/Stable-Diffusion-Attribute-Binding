@@ -28,7 +28,7 @@ def convert_jsonl_to_csv(jsonl_path, csv_path):
 
 # Paths for input and output
 jsonl_path = 'metadata.jsonl'  # The new JSONL file created earlier
-csv_path = 'metadata.csv'  # Output CSV file path
+csv_path = '../winoground_subset/metadata.csv'  # Output CSV file path
 
 # Convert the JSONL to CSV
 convert_jsonl_to_csv(jsonl_path, csv_path)
