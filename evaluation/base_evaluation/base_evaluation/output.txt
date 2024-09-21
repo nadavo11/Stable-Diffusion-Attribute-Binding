@@ -1,0 +1,35 @@
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_0.png, Caption: A dog giving a present to a man., CLIP Score: 32.568359375, reverse caption A present givings a dog to a man., reverse score 28.9794921875, diff*100 358.88671875
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_1.png, Caption: A dolphin rescuing a swimmer., CLIP Score: 26.9287109375, reverse caption A swimmer rescuings a dolphin., reverse score 25.4150390625, diff*100 151.3671875
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_4.png, Caption: A rabbit bringing vegetables to a gardener., CLIP Score: 36.5234375, reverse caption Vegetables bringings a rabbit to a gardener., reverse score 34.4970703125, diff*100 202.63671875
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_5.png, Caption: A squirrel helping a child find lost keys., CLIP Score: 31.298828125, reverse caption Lost keys finds a child., reverse score 21.30126953125, diff*100 999.755859375
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_6.png, Caption: A cat bringing a toy to a baby., CLIP Score: 34.765625, reverse caption A toy bringings a cat to a baby., reverse score 33.203125, diff*100 156.25
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_7.png, Caption: A bird feeding an elderly person., CLIP Score: 34.3017578125, reverse caption An elderly person feedings a bird., reverse score 34.2041015625, diff*100 9.765625
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_8.png, Caption: A monkey handing tools to a mechanic., CLIP Score: 32.275390625, reverse caption Tools handings a monkey to a mechanic., reverse score 31.494140625, diff*100 78.125
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_9.png, Caption: A rabbit helping a child with homework., CLIP Score: 33.4716796875, reverse caption A child helpings a rabbit with homework., reverse score 33.3251953125, diff*100 14.6484375
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_10.png, Caption: A cat bringing a flower to a sick person, CLIP Score: 33.3251953125, reverse caption A flower bringings a cat to a sick person., reverse score 33.1787109375, diff*100 14.6484375
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_11.png, Caption: A child giving homework to a teacher., CLIP Score: 28.9306640625, reverse caption Homework givings a child to a teacher., reverse score 29.3212890625, diff*100 39.0625
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_12.png, Caption: A cat rescuing a fireman from a tree., CLIP Score: 40.8447265625, reverse caption A fireman rescuings a cat from a tree., reverse score 40.0146484375, diff*100 83.0078125
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_13.png, Caption: A patient measures fever to a nurse., CLIP Score: 31.787109375, reverse caption Fever measures a patient to a nurse., reverse score 31.005859375, diff*100 78.125
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_14.png, Caption: An homeless person gives money to a billionaire, CLIP Score: 32.568359375, reverse caption Money gives an homeless person to a billionaire., reverse score 31.1767578125, diff*100 139.16015625
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_15.png, Caption: A student explains astrophysics to a teacher., CLIP Score: 26.318359375, reverse caption Astrophysics explains a student to a teacher., reverse score 24.51171875, diff*100 180.6640625
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_16.png, Caption: A child arresting a police officer, CLIP Score: 34.0576171875, reverse caption A police officer arrestings a child., reverse score 33.544921875, diff*100 51.26953125
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_17.png, Caption: A layer explain a farmer how to plant seeds, CLIP Score: 30.7861328125, reverse caption Seeds plants a layer how to., reverse score 21.30126953125, diff*100 948.486328125
+Metric used is CLIP Score using cuda
+Image: /content/drive/MyDrive/MSC/summer_24/deep_learning/Final Project/evaluation/base_evaluation/image_18.png, Caption: A squirrel bringing nuts to a picnic., CLIP Score: 33.2763671875, reverse caption Nuts bringings a squirrel to a picnic., reverse score 30.76171875, diff*100 251.46484375
+CLIP Score: Avrage:32.58990119485294 var: 10.921105381526749,  Reverse CLIP Score: avg:30.425666360294116 var:22.84051947115202,  CLIP Diff: avg:2.2101907169117645 var: 8.38177117509413
