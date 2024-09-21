@@ -1,0 +1,86 @@
+[
+    {"file_name": "image_0.png",
+        "text": "A dog giving a present to a man.",
+        "reverse_text": "A present givings a dog to a man."
+    },
+    {
+        "file_name": "image_1.png",
+        "text": "A dolphin rescuing a swimmer.",
+        "reverse_text": "A swimmer rescuings a dolphin."
+    },
+    {
+        "file_name": "image_4.png",
+        "text": "A rabbit bringing vegetables to a gardener.",
+        "reverse_text": "Vegetables bringings a rabbit to a gardener."
+    },
+    {
+        "file_name": "image_5.png",
+        "text": "A squirrel helping a child find lost keys.",
+        "reverse_text": "Lost keys finds a child."
+    },
+    {
+        "file_name": "image_6.png",
+        "text": "A cat bringing a toy to a baby.",
+        "reverse_text": "A toy bringings a cat to a baby."
+    },
+    {
+        "file_name": "image_7.png",
+        "text": "A bird feeding an elderly person.",
+        "reverse_text": "An elderly person feedings a bird."
+    },
+    {
+        "file_name": "image_8.png",
+        "text": "A monkey handing tools to a mechanic.",
+        "reverse_text": "Tools handings a monkey to a mechanic."
+    },
+    {
+        "file_name": "image_9.png",
+        "text": "A rabbit helping a child with homework.",
+        "reverse_text": "A child helpings a rabbit with homework."
+    },
+    {
+        "file_name": "image_10.png",
+        "text": "A cat bringing a flower to a sick person",
+        "reverse_text": "A flower bringings a cat to a sick person."
+    },
+    {
+        "file_name": "image_11.png",
+        "text": "A child giving homework to a teacher.",
+        "reverse_text": "Homework givings a child to a teacher."
+    },
+    {
+        "file_name": "image_12.png",
+        "text": "A cat rescuing a fireman from a tree.",
+        "reverse_text": "A fireman rescuings a cat from a tree."
+    },
+    {
+        "file_name": "image_13.png",
+        "text": "A patient measures fever to a nurse.",
+        "reverse_text": "Fever measures a patient to a nurse."
+    },
+    {
+        "file_name": "image_14.png",
+        "text": "An homeless person gives money to a billionaire",
+        "reverse_text": "Money gives an homeless person to a billionaire."
+    },
+    {
+        "file_name": "image_15.png",
+        "text": "A student explains astrophysics to a teacher.",
+        "reverse_text": "Astrophysics explains a student to a teacher."
+    },
+    {
+        "file_name": "image_16.png",
+        "text": "A child arresting a police officer",
+        "reverse_text": "A police officer arrestings a child."
+    },
+    {
+        "file_name": "image_17.png",
+        "text": "A layer explain a farmer how to plant seeds",
+        "reverse_text": "Seeds plants a layer how to."
+    },
+    {
+        "file_name": "image_18.png",
+        "text": "A squirrel bringing nuts to a picnic.",
+        "reverse_text": "Nuts bringings a squirrel to a picnic."
+    }
+]
