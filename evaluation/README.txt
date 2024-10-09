@@ -10,3 +10,8 @@ We evaluate the model using two lists of captions:
 
 We use the reverse caption function (same one from the data filtering) to reverse the test set captions and meaure each one of the scorse on the reverse caption + generated image from the forward caption.
 Then we calcuate the diff between them, expacting to have bigger diff when the model is more sensitive to agent-action-patient direction.
+
+Run the following note book cell by cell
+The images will be saved in '/content/drive/My Drive/deep_learning_project/Project_036635803_305673212_312349509/output/models_results/<model>/generated_image/<test_set>'
+According to the model you are running '/content/drive/My Drive/deep_learning_project/Project_036635803_305673212_312349509/output/models_results/<model>/simularity_scors/<test_set>'
+You can skipe the genrate images block if you wish to save time as the images are already in the drive 
