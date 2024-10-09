@@ -15,3 +15,4 @@ Run the following note book cell by cell
 The images will be saved in '/content/drive/My Drive/deep_learning_project/Project_036635803_305673212_312349509/output/models_results/<model>/generated_image/<test_set>'
 According to the model you are running '/content/drive/My Drive/deep_learning_project/Project_036635803_305673212_312349509/output/models_results/<model>/simularity_scors/<test_set>'
 You can skipe the genrate images block if you wish to save time as the images are already in the drive 
+Make sure toy habe image_data.json per generated images directory 
